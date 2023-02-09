@@ -4,8 +4,10 @@ Projeto prático do curso de Desenvolvimento Front-end. Uma homepage de uma empr
 
 | Project | Link |
 | ------ | ------ |
-| Home Cleaning Express | https://bit.ly/ |
-
+| Home Cleaning Express | http://bit.ly/3JW9dXM |
+ ## Meus contatos
+  - https://bit.ly/m/jacksondouglasdesouza
+ 
 ## Used technologies.
 <div>
   <img align="center" alt="Jackson Douglas de Souza-HTML5" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -17,8 +19,8 @@ Projeto prático do curso de Desenvolvimento Front-end. Uma homepage de uma empr
   <img align="center" alt="Jackson Douglas de Souza-vscode" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
  </div>
  
- ## Meus contatos - https://bit.ly/m/jacksondouglasdesouza
-
+ #
+ 
  
   <div>
   <img align="center" alt="Home Cleaning Express" height="auto" width="100%"
@@ -30,7 +32,7 @@ Projeto prático do curso de Desenvolvimento Front-end. Uma homepage de uma empr
 
 | Project | Deployment |
 | ------ | ------ |
-| Home Cleaning Express | https://bit.ly/ |
+| Home Cleaning Express | http://bit.ly/3JW9dXM |
 
  
  <div>
